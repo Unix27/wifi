@@ -1,0 +1,22 @@
+.btn-orange {
+  animation: none;
+  transition: all 0.3s ease !important; 
+}
+.btn-orange:hover {
+  background-color: #00f;
+}
+.slider-home__arrows .swiper-button-prev svg:hover {
+  fill: #FF9F00;
+}
+.slider-home__arrows .swiper-button-next svg:hover {
+  fill: #FF9F00;
+}
+.status-block__btn {
+  -webkit-animation: fadeTop 8s ease-in-out 0.3s forwards;
+  animation: fadeTop 8s ease-in-out 0.3s forwards;
+  -webkit-animation-delay: 5.4s;
+  animation-delay: 5.4s;
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+

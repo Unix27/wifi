@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0B8094ED-AE79-487A-92AC-A96A891B7DAC</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-782.000000, -2182.000000)">
+            <g id="percent-arrow-up" transform="translate(782.000000, 2182.000000)">
+                <polygon id="Path" points="0 0 70 0 70 70 0 70"></polygon>
+                <line x1="30" y1="42" x2="42" y2="30" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="49" y1="49" x2="55" y2="43" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="55.5" y1="58" x2="55.5" y2="43" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M45.3333333,63 L24.7222222,63 C16.5913634,63 10,56.4086366 10,48.2777778 L10,24.7222222 C10,16.5913634 16.5913634,10 24.7222222,10 L48.2777778,10 C56.4086366,10 63,16.5913634 63,24.7222222 L63,33.5555556" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="62" y1="49" x2="56" y2="43" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M41.8736187,41.50138 C41.8728576,41.7074538 41.7053861,41.8739999 41.4993113,41.8736194 C41.2932364,41.8732388 41.1263813,41.7060752 41.1263813,41.5 C41.1263813,41.2939248 41.2932364,41.1267612 41.4993113,41.1263806 C41.7053861,41.1260001 41.8728576,41.2925462 41.8736187,41.49862 L41.8736187,41.50138" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M28.1263813,28.49862 C28.1271424,28.2925462 28.2946139,28.1260001 28.5006887,28.1263806 C28.7067636,28.1267612 28.8736187,28.2939248 28.8736187,28.5 C28.8736187,28.7060752 28.7067636,28.8732388 28.5006887,28.8736194 C28.2946139,28.8739999 28.1271424,28.7074538 28.1263813,28.50138 L28.1263813,28.49862" id="Path" stroke="#0000FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
